@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bCcvDSqTmKCd3vHShLLZLOyluW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +31,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -105,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588139745015</updated>
-      <workItem from="1588139747950" duration="3840000" />
+      <workItem from="1588139747950" duration="4558000" />
     </task>
     <servers />
   </component>
@@ -125,22 +130,22 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="252" y="308" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588142280809" />
-    <state width="986" height="295" key="GridCell.Tab.0.bottom" timestamp="1588145100433">
+    <state width="986" height="295" key="GridCell.Tab.0.bottom" timestamp="1588145112054">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="986" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588145100433" />
-    <state width="986" height="295" key="GridCell.Tab.0.center" timestamp="1588145100431">
+    <state width="986" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588145112054" />
+    <state width="986" height="295" key="GridCell.Tab.0.center" timestamp="1588145112051">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="986" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588145100431" />
-    <state width="986" height="295" key="GridCell.Tab.0.left" timestamp="1588145100430">
+    <state width="986" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588145112051" />
+    <state width="986" height="295" key="GridCell.Tab.0.left" timestamp="1588145112050">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="986" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588145100430" />
-    <state width="986" height="295" key="GridCell.Tab.0.right" timestamp="1588145100432">
+    <state width="986" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588145112050" />
+    <state width="986" height="295" key="GridCell.Tab.0.right" timestamp="1588145112053">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="986" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588145100432" />
+    <state width="986" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588145112053" />
     <state width="986" height="363" key="GridCell.Tab.1.bottom" timestamp="1588142087279">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
