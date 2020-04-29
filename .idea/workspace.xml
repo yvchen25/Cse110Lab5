@@ -110,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588139745015</updated>
-      <workItem from="1588139747950" duration="4558000" />
+      <workItem from="1588139747950" duration="4915000" />
     </task>
     <servers />
   </component>
@@ -130,6 +130,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="252" y="308" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588142280809" />
+    <state x="108" y="127" key="CommitChangelistDialog2" timestamp="1588150221494">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="108" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1588150221494" />
     <state width="986" height="295" key="GridCell.Tab.0.bottom" timestamp="1588145112054">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
